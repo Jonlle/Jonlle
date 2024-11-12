@@ -1,31 +1,42 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25>  Hi, I'm Jhonatan Llerena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
-
 ### Frontend Developer | Full Stack Developer
 
-## 🚀 About Me
-
-I am a **Frontend Developer** with over 5 years of experience in developing scalable and high-performance web applications. I specialize in **React** and **Next.js**, with a strong commitment to best coding practices and performance optimization.
-
-## 🤝 Open to Work
-<div align="center">
-  <img src="https://img.shields.io/badge/🔍_Status-Actively_Seeking_Opportunities-brightgreen?style=for-the-badge" alt="Status" />
-</div>
-
-### 💼 Available for:
-- Full-time positions
-- Part-time opportunities
-- Freelance projects
-
-### 📍 Work Preferences:
-- **Remote:** Available for worldwide opportunities
-- **On-site:** Open to positions in Barranquilla, Colombia
-- **Time Zone:** GMT-5 (Colombia)
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; margin: 0; padding: 0;">
+    <tr>
+        <td style="vertical-align: top; padding: 0;">
+            <h2>🚀 About Me</h2>
+            <p>I am a <strong>Frontend Developer</strong> with over 5 years of experience in developing scalable and high-performance web applications. I specialize in <strong>React</strong> and <strong>Next.js</strong>, with a strong commitment to best coding practices and performance optimization.</p>
+            <h2>🤝 Open to Work</h2>
+            <div align="center">
+                <img src="https://img.shields.io/badge/🔍_Status-Actively_Seeking_Opportunities-brightgreen?style=for-the-badge" alt="Status" />
+            </div>
+            <h3>💼 Available for:</h3>
+            <ul>
+                <li>Full-time positions</li>
+                <li>Part-time opportunities</li>
+                <li>Freelance projects</li>
+            </ul>
+            <h3>📍 Work Preferences:</h3>
+            <ul>
+                <li><strong>Remote:</strong> Available for worldwide opportunities</li>
+                <li><strong>On-site:</strong> Open to positions in Barranquilla, Colombia</li>
+                <li><strong>Time Zone:</strong> GMT-5 (Colombia)</li>
+            </ul>
+        </td>
+        <td style="vertical-align: top; padding: 0;">
+            <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Hiring GIF" width="500" style="max-width: 100%; height: auto;">
+        </td>
+    </tr>
+</table>
 
 I'm passionate about creating exceptional web experiences and ready to bring my expertise to your team or project. Let's connect and create something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-llerena)
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jonlle19@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573146124693)
+
+
+
 
 ## 🛠️ Technical Skills
 
