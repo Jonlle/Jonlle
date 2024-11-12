@@ -50,6 +50,7 @@ Here are some of the projects I've worked on and would like to share:
 
 <details>
 <summary><h2>💼 Experience</h2></summary>
+
 <img align="right" height="100px" src="https://media.licdn.com/dms/image/v2/C560BAQFcWYYaGLmJvg/company-logo_200_200/company-logo_200_200/0/1630655692238/novopayment_logo?e=1739404800&v=beta&t=0qIhCXhWLiLFAK8Xjpbsg05QXOSAJmloni9_EWKgJEo" />
 
 ### 📖 Senior Web Developer
@@ -64,6 +65,7 @@ Here are some of the projects I've worked on and would like to share:
 
 <details>
 <summary><h2>🎓 Education</h2></summary>
+  
 <img align="right" height="100px" src="https://seeklogo.com/images/U/universidad-central-de-venezuela-logo-FFDDFD0A25-seeklogo.com.png" />
 
 ### 📖 Bachelor of Science in Computer Science
@@ -75,6 +77,7 @@ Here are some of the projects I've worked on and would like to share:
 
 <details>
 <summary><h2>📚 Courses</h2></summary>
+  
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)](https://www.udemy.com/)
 - Next.js: The React Framework for Production
 - Design Patterns in JavaScript and TypeScript - Certified
