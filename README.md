@@ -66,7 +66,7 @@ Explore additional projects on my GitHub profile.
 For a comprehensive overview of my **professional journey**, including detailed experience, education, and courses:
 
 [![LinkedIn](https://img.shields.io/badge/View_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhonatan-llerena)
-[![Resume/CV](https://img.shields.io/badge/View_Resume/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1thFZ0nvV_MazLnlXlz_u9bGKXn2S6VXQ/view)
+[![Resume/CV](https://img.shields.io/badge/View_Resume/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ri6UNAUZD9Z-lbOzYGUrsBXS3eSOgvkb/view)
 
 ## 👋 Let's Connect!
 Thank you for visiting my profile! I'm always excited to collaborate on innovative projects and create impactful solutions. Let's build something amazing together! 🚀
