@@ -1,8 +1,26 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25>  Hi, I'm Jhonatan Llerena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
-### Frontend Developer | Full Stack Developer
+<table>
+  <tr>
+    <td>
+      <h1>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  
+        Hi, I'm Jhonatan Llerena  
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+      </h1>
+      <h3>Frontend Developer | Full Stack Developer</h3>
+      <h2>🚀 About Me</h2>
+      <p>
+        With over 5 years of experience building scalable and high-performance web applications. I specialize in <strong>React</strong> and <strong>Next.js</strong>, with expertise in modern development practices and a passion for creating exceptional user experiences through optimized solutions.
+      </p>
+    </td>
+    <td>
+      <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" 
+           alt="Hiring GIF" 
+           width="420" 
+           style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
 
-## 🚀 About Me
-With over 5 years of experience building scalable and high-performance web applications. I specialize in **React** and **Next.js**, with expertise in modern development practices and a passion for creating exceptional user experiences through optimized solutions.
 
 ## 🤝 Open to Work
 <div align="center">
@@ -30,7 +48,7 @@ Let's connect and discuss how I can contribute to your team!
 | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/) [![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.atlassian.com/agile/scrum) [![Agile](https://img.shields.io/badge/Agile-147EFB?style=for-the-badge&logo=awesome-lists&logoColor=white)](https://agilemanifesto.org/) |
 
 ## 🚀 Featured Projects
-Showcasing some of my best work in web development:
+Showing some of my work in web development:
 
 ### 📝 Task Management System
 | **Overview** | **Preview** |
