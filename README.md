@@ -15,7 +15,7 @@
     <td>
       <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" 
            alt="Hiring GIF" 
-           width="420" 
+           width="400" 
            style="max-width: 100%; height: auto;">
     </td>
   </tr>
@@ -84,7 +84,7 @@ Explore additional projects on my GitHub profile.
 For a comprehensive overview of my **professional journey**, including detailed experience, education, and courses:
 
 [![LinkedIn](https://img.shields.io/badge/View_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhonatan-llerena)
-[![Resume/CV](https://img.shields.io/badge/View_Resume/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ri6UNAUZD9Z-lbOzYGUrsBXS3eSOgvkb/view)
+[![Resume/CV](https://img.shields.io/badge/View_Resume/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1k26OAetqLPEenRtAr-AuTD75dEfOS0R4/view)
 
 ## 👋 Let's Connect!
 Thank you for visiting my profile! I'm always excited to collaborate on innovative projects and create impactful solutions. Let's build something amazing together! 🚀
